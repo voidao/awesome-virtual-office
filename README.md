@@ -1,6 +1,18 @@
-# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
+<div align="center">
+  <sub>Please try my version of Virtual Office</sub>
+	<br>
+	<h2>
+		<a href="https://office.edening.org/">Edening Office</a>
+		<br>
+		<sup>Achieving the fragile balance between creativity and freedom...</sup>
+    <a href="https://office.edening.org/">
+  		<img width="500" height="350" src="https://office.edening.org/images/visit.png" alt="Edening Office">
+  	</a>
+	</h2>
+</div>
 
-A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
+# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome [virtual office](https://en.wikipedia.org/wiki/Remote_work) resources.
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
@@ -628,5 +640,3 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
