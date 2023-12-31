@@ -18,7 +18,7 @@ A curated list of awesome [virtual office](https://en.wikipedia.org/wiki/Remote_
 
 <!-- MarkdownTOC depth=3 -->
 
-- [Awesome Virtual Office  ](#awesome-virtual-office--)
+- [Awesome Virtual Office  ](#awesome-virtual-office-)
   - [Table of Contents](#table-of-contents)
   - [Solutions](#solutions)
   - [Remote](#remote)
