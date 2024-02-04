@@ -26,15 +26,23 @@ A curated list of awesome [virtual office](https://en.wikipedia.org/wiki/Remote_
 <!-- /MarkdownTOC -->
 
 ## Solutions
-  1.[WorkAdventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game.
-  2.[SkyOffice](https://github.com/kevinshen56714/SkyOffice) - About
-Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
-  3.[OnOffice](https://github.com/rvdleun/onoffice) - The open-source Virtual Office, powered by WebVR.
-  4.[Gather](https://www.gather.town/) - Gather gives distributed teams a digital space that brings everyone together.
-  5.[PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
-  6.[flat.social](https://flat.social/) - Remote teams use flat.social to socialize, collaborate and throw virtual socials.
-  7.[Remo](https://remo.co/) - An online interactive events platform that connects people in a more authentic way.
-  8.[krisp.ai](https://krisp.ai/) - Your AI-powered assistant for meetings and calls.
+  - [WorkAdventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game.
+  
+  - [SkyOffice](https://github.com/kevinshen56714/SkyOffice) - About Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
+  
+  - [OnOffice](https://github.com/rvdleun/onoffice) - The open-source Virtual Office, powered by WebVR.
+  
+  - [Gather](https://www.gather.town/) - Gather gives distributed teams a digital space that brings everyone together.
+  
+  - [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
+  
+  - [flat.social](https://flat.social/) - Remote teams use flat.social to socialize, collaborate and throw virtual socials.
+  
+  - [Remo](https://remo.co/) - An online interactive events platform that connects people in a more authentic way.
+  
+  - [krisp.ai](https://krisp.ai/) - Your AI-powered assistant for meetings and calls.
+
+  
 
 ## Remote
   1. [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
