@@ -35,6 +35,9 @@ A curated list of awesome [virtual office](https://en.wikipedia.org/wiki/Remote_
 <!-- /MarkdownTOC -->
 
 ## Solutions
+  
+  - [Katmai](https://katmaitech.com/) - Katmai is pioneering the future of virtual experiences and remote work.
+  
   - [WorkAdventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game.
   
   - [SkyOffice](https://github.com/kevinshen56714/SkyOffice) - About Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
