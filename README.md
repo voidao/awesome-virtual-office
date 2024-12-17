@@ -1,12 +1,12 @@
 <div align="center">
-  <sub>Please try my version of Virtual Office</sub>
+  <sub>Please try my version of a Global Village</sub>
 	<br>
 	<h2>
-		<a href="https://office.edening.org/">Edening Office</a>
+		<a href="https://office.edening.org/">Edening Global Village</a>
 		<br>
 		<sup>Achieving the fragile balance between creativity and freedom...</sup>
-    		<a href="https://office.edening.org/">
-  			<img width="500" height="350" src="https://office.edening.org/images/visit.png" alt="Edening Office">
+    		<a href="https://edening.org/">
+  			<img width="500" height="350" src="https://raw.githubusercontent.com/voidao/awesome-virtual-office/refs/heads/master/Edening%20Global%20Village.png" alt="Edening Global Village">
   		</a>
 	</h2>
 </div>
