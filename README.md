@@ -2,7 +2,7 @@
   <sub>Please try my version of a Global Village</sub>
 	<br>
 	<h2>
-		<a href="https://office.edening.org/">Edening Global Village</a>
+		<a href="https://edening.org/">Edening Global Village</a>
 		<br>
 		<sup>Achieving the fragile balance between creativity and freedom...</sup>
     		<a href="https://edening.org/">
