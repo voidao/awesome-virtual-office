@@ -8,6 +8,9 @@
     		<a href="https://edening.org/">
   			<img width="500" height="350" src="https://raw.githubusercontent.com/voidao/awesome-virtual-office/refs/heads/master/Edening%20Global%20Village.png" alt="Edening Global Village">
   		</a>
+		- You would be at your current location.
+		- Meet people @XiXiWetland@HangZhou@China by clicking the button at top left corner.
+		- Move and turn around using the arrow keys.
 	</h2>
 </div>
 
