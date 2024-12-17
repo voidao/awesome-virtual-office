@@ -1,18 +1,24 @@
 <div align="center">
   <sub>Please try my version of a Global Village</sub>
 	<br>
-	<a href="https://edening.org/">Edening Global Village</a>
-	<br>
-	<sup>Achieving the fragile balance between creativity and freedom...</sup>
-	<a href="https://edening.org/">
-		<img width="500" height="350" src="https://raw.githubusercontent.com/voidao/awesome-virtual-office/refs/heads/master/Edening%20Global%20Village.png" alt="Edening Global Village">
-	</a>
-</div>
-<div align="center">
-- You would be at your current location.<br>
-- Meet people @XiXiWetland@HangZhou@China by clicking the button at top left corner.<br>
-- Move and turn around using the arrow keys.<br>
-</div>
+	<h2>
+		<a href="https://edening.org/">Edening Global Village</a>
+		<br>
+		<sup>Achieving the fragile balance between creativity and freedom...</sup>
+		<a href="https://edening.org/">
+			<img width="500" height="350" src="https://raw.githubusercontent.com/voidao/awesome-virtual-office/refs/heads/master/Edening%20Global%20Village.png" alt="Edening Global Village">
+		</a>>
+		<div align="center">
+			<sub>
+				- You would be at your current location.<br>
+				- Meet people @XiXiWetland@HangZhou@China by clicking the button at top left corner.<br>
+				- Move and turn around using the arrow keys.<br>
+			</sub>
+		</div>
+	</h2>
+</div
+
+<br>
 
 # Awesome Virtual Office [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome [virtual office](https://en.wikipedia.org/wiki/Remote_work) resources.
