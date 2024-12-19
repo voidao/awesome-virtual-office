@@ -35,26 +35,41 @@ A curated list of awesome [virtual office](https://en.wikipedia.org/wiki/Remote_
 <!-- /MarkdownTOC -->
 
 ## Solutions
+
+  - [Arthur](https://www.arthur.digital/) - One space where Humans and AI work together.
   
+  - [Bublr](https://bublr.co/) - Collaborative Metaverse Experiences.
+  
+  - [flat.social](https://flat.social/) - Remote teams use flat.social to socialize, collaborate and throw virtual socials.
+
+  - [FrameVR](https://learn.framevr.io/) - Give your team a space to work and meet in the immersive web.
+  
+  - [Gather](https://www.gather.town/) - Gather gives distributed teams a digital space that brings everyone together.
+
+  - [Grapevine](https://thegrapevine.tech/) - Grapevine is a virtual world for friends, co-workers, and communities.
+   
   - [Katmai](https://katmaitech.com/) - Katmai is pioneering the future of virtual experiences and remote work.
+
+  - [Konpi](https://www.konpi.com/virtual-office) - Your social place for remote work.
   
-  - [WorkAdventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game.
-  
-  - [SkyOffice](https://github.com/kevinshen56714/SkyOffice) - About Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
+  - [krisp.ai](https://krisp.ai/) - Your AI-powered assistant for meetings and calls.
   
   - [OnOffice](https://github.com/rvdleun/onoffice) - The open-source Virtual Office, powered by WebVR.
   
-  - [Gather](https://www.gather.town/) - Gather gives distributed teams a digital space that brings everyone together.
-  
   - [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
   
-  - [flat.social](https://flat.social/) - Remote teams use flat.social to socialize, collaborate and throw virtual socials.
-  
   - [Remo](https://remo.co/) - An online interactive events platform that connects people in a more authentic way.
-  
-  - [krisp.ai](https://krisp.ai/) - Your AI-powered assistant for meetings and calls.
 
+  - [ShapeShark](https://www.shapespark.com/3d-meetings) - 3D meeting spaces in a browser.
   
+  - [SkyOffice](https://github.com/kevinshen56714/SkyOffice) - About Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
+
+  - [SoWork](https://sowork.com/) - The Virtual Workspace for Remote Teams.
+
+  - [Spot](https://www.spotvirtual.com/) - Remote work doesn't have to feel remote.
+  
+  - [WorkAdventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game.
+
 
 ## Remote
   1. [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
