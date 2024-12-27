@@ -7,7 +7,7 @@
 		<sup>Achieving the fragile balance between creativity and freedom...</sup>
 		<a href="https://edening.org/">
 			<img width="500" height="350" src="https://raw.githubusercontent.com/voidao/awesome-virtual-office/refs/heads/master/Edening%20Global%20Village.png" alt="Edening Global Village">
-		</a>>
+		</a>
 		<div align="center">
 			<sub>
 				- You would be at your current location.<br>
