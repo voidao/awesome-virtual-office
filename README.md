@@ -11,8 +11,10 @@
 		<div align="center">
 			<sub>
 				- You would be at your current location.<br>
-				- Meet people @XiXiWetland@HangZhou@China by clicking the button at top left corner.<br>
+				- Login using the default account or social network accounts.<br>
+				- Meet people in different scenes by clicking the buttons at top left corner.<br>
 				- Move and turn around using the arrow keys.<br>
+				- Double click the seats to sit in some scenes.<br>
 			</sub>
 		</div>
 	</h2>
