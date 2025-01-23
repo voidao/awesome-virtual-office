@@ -12,7 +12,8 @@
 			<sub>
 				- You would be at your current location.<br>
 				- Login using the default account or social network accounts.<br>
-				- Meet people in different scenes by clicking the buttons at top left corner.<br>
+				- Meet people in @XiXiWetland Global Village by double-clicking the buildings.<br>
+				- Or in different scenes directly by clicking the buttons at top left corner.<br>
 				- Move and turn around using the arrow keys.<br>
 				- Double click the seats to sit in some scenes.<br>
 			</sub>
