@@ -10,11 +10,12 @@
 		</a>
 		<div align="center">
 			<sub>
-				- You would be at your current location.<br>
+				- @XiXiWetland by default.<br>
 				- Login using the default account or social network accounts.<br>
 				- Meet people in @XiXiWetland Global Village by double-clicking the buildings.<br>
-				- Or in different scenes directly by clicking the buttons at top left corner.<br>
+				- Or in the public spaces by clicking the buttons at the top left corner.<br>
 				- Move and turn around using the arrow keys.<br>
+				- Change your perspective using the mouse operations.<br>
 				- Double click the seats to sit in some scenes.<br>
 			</sub>
 		</div>
