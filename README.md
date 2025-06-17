@@ -12,7 +12,8 @@
 			<sub>
 				- @XiXiWetland by default.<br>
 				- Login using the default account or social network accounts.<br>
-				- Meet people in @XiXiWetland Global Village by double-clicking the buildings.<br>
+				- Dedicated office after social network login, link@account@TopRightCorner.<br>
+				- Meet people in @XiXiWetland by double-clicking the buildings.<br>
 				- Or in the public spaces by clicking the buttons at the top left corner.<br>
 				- Move and turn around using the arrow keys.<br>
 				- Change your perspective using the mouse operations.<br>
